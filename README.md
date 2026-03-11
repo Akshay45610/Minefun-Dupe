@@ -1,2 +1,2 @@
 # Minefun-Dupe
-Subs for SuperBrother 
+Subs for SuperNova2.0
